@@ -6,3 +6,9 @@ I was originally going to make an app the randomly interspersed profanity while 
 # Some details
 This is written in dotnetcore. The OSX implementation is coming, I just don't have time tonight. 
 It's running in a console, so I wrote a quick and dirty message-pump. 
+
+# Build
+Clone the repo and run "dotnet build"
+
+# Run
+dotnet exec BadKeyboard.dll
